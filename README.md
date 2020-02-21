@@ -1,2 +1,2 @@
 # handy-shell-scripts
-Handy shell scripts I've encountered, feel free to add
+Handy shell scripts written at work, out of boredom or necessity. Feel free to add.
